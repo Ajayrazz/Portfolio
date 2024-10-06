@@ -5,8 +5,8 @@ tailwind.config = {
                 'auto':'repeat(auto-fit, minmax(200px, 1fr))'
             },
             fontfamily:{
-                Ovo: ["Ovo", "system-ui"],
-                Outfit : ["Outfit", "system-ui"]
+                Ovo: ['Ovo', 'system-ui'],
+                Outfit : ['Outfit', 'system-ui']
             },
             animation:{
                 spin_slow: 'spin 6s linear infinite'
